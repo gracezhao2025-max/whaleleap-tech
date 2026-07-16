@@ -1,0 +1,20 @@
+{
+    "name":  "Qingdao Whaleleap Tech",
+    "url":  "https://www.whaleleapaqua.com/",
+    "description":  "Supplier of aquaculture microbial preparations, pond-management solutions and feed additives.",
+    "location":  "Qingdao, Shandong, China",
+    "contact":  {
+                    "name":  "Grace Zhao",
+                    "email":  "gracezhao2025@gmail.com",
+                    "whatsapp":  "+86 13385327686"
+                },
+    "core_pages":  [
+                       "/",
+                       "/products/compound-bacillus-100-billion",
+                       "/products/vibrio-control-star",
+                       "/products/herbal-liver-protection-formula",
+                       "/geo",
+                       "/resources"
+                   ],
+    "evidence_note":  "Commercial specifications and claims require current supporting documentation."
+}

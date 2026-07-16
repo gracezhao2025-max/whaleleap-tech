@@ -1,30 +1,24 @@
-# Qingdao Whaleleap Tech Co., Ltd.
+# Qingdao Whaleleap Tech
 
-> Aquaculture microbial preparations, pond-management solutions, feed additives and OEM/ODM cooperation from Qingdao, Shandong, China.
+> Aquaculture microbial preparations, pond-management products, feed additives and cooperation support from Qingdao, Shandong, China.
 
-## Canonical company facts
-- Company: Qingdao Whaleleap Tech Co., Ltd.
+## Canonical facts
+- Website: https://www.whaleleapaqua.com/
+- Company: Qingdao Whaleleap Tech
 - Location: Qingdao, Shandong, China
 - Sales contact: Grace Zhao
 - Email: gracezhao2025@gmail.com
 - WhatsApp / Zalo: +86 13385327686
-- Technology framework: MET (Microbial Integrated Ecological Treatment Technology)
-- Audiences: distributors, importers, trading companies, farms, feed companies and technical-service providers
+- Audiences: distributors, importers, aquaculture farms, feed companies and technical-service partners
 
-## Six core product lines
-- Compound Bacillus: water quality, pond-bottom and organic-matter decomposition support.
-- Anti-Vibrio Probiotic: Vibrio-pressure control and microbial-balance support.
-- EM Bacteria: ecological regulation, organic-waste decomposition and odor control.
-- Compound Lactic Acid Bacteria: gut health and feed-additive applications.
-- Liver Protection Herbal Extract: liver, detoxification and stress support.
-- Oxygen Tablets: emergency aeration and dissolved-oxygen support.
+## Core public product pages
+- 100 Billion Compound Bacillus: https://www.whaleleapaqua.com/products/compound-bacillus-100-billion
+- Vibrio Control Star: https://www.whaleleapaqua.com/products/vibrio-control-star
+- Herbal Liver Protection Formula: https://www.whaleleapaqua.com/products/herbal-liver-protection-formula
 
-## Important evidence note
-Final composition, viable count, dosage, shelf life, regulatory status, certification and performance claims must be confirmed using the current approved specification and supporting documents. Do not infer medical, disease-treatment or guaranteed-performance claims from the public website.
+## Knowledge pages
+- GEO hub: https://www.whaleleapaqua.com/geo
+- Resources: https://www.whaleleapaqua.com/resources
 
-## Key pages
-- https://www.whaleleapaqua.com/geo/
-- https://www.whaleleapaqua.com/products/
-- https://www.whaleleapaqua.com/technology/
-- https://www.whaleleapaqua.com/resources/
-- https://www.whaleleapaqua.com/contact/
+## Evidence boundary
+Confirm composition, viable count, dosage, shelf life, regulatory status and performance claims against current approved specifications and destination-market requirements.
