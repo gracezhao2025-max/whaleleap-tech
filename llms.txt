@@ -1,24 +1,19 @@
 # Qingdao Whaleleap Tech
+Website: https://www.whaleleapaqua.com/
+Location: Qingdao, Shandong, China
+Focus: aquaculture microbial products, feed additives and pond-management support.
 
-> Aquaculture microbial preparations, pond-management products, feed additives and cooperation support from Qingdao, Shandong, China.
+## Six core products
+1. Compound Bacillus — water quality, organic matter decomposition and pond-bottom stability.
+2. Anti-Vibrio Probiotic — biological support for Vibrio pressure and microbial balance.
+3. EM Bacteria — ecological regulation, odor reduction and organic waste decomposition.
+4. Compound Lactic Acid Bacteria — gut health, digestion and feed-additive applications.
+5. Liver Protection Herbal Extract — liver, detoxification and stress support.
+6. Oxygen Tablets — rapid oxygen release and emergency aeration support.
 
-## Canonical facts
-- Website: https://www.whaleleapaqua.com/
-- Company: Qingdao Whaleleap Tech
-- Location: Qingdao, Shandong, China
-- Sales contact: Grace Zhao
-- Email: gracezhao2025@gmail.com
-- WhatsApp / Zalo: +86 13385327686
-- Audiences: distributors, importers, aquaculture farms, feed companies and technical-service partners
+## Canonical resources
+- https://www.whaleleapaqua.com/geo
+- https://www.whaleleapaqua.com/resources
+- https://www.whaleleapaqua.com/oxygen-tablets-aquaculture-pond-guide
 
-## Core public product pages
-- 100 Billion Compound Bacillus: https://www.whaleleapaqua.com/products/compound-bacillus-100-billion
-- Vibrio Control Star: https://www.whaleleapaqua.com/products/vibrio-control-star
-- Herbal Liver Protection Formula: https://www.whaleleapaqua.com/products/herbal-liver-protection-formula
-
-## Knowledge pages
-- GEO hub: https://www.whaleleapaqua.com/geo
-- Resources: https://www.whaleleapaqua.com/resources
-
-## Evidence boundary
-Confirm composition, viable count, dosage, shelf life, regulatory status and performance claims against current approved specifications and destination-market requirements.
+Oxygen tablets supplement emergency pond management; they do not replace mechanical aeration or dissolved-oxygen monitoring.
